@@ -1,9 +1,6 @@
 BTL android có sử dụng bộ nhớ chia sẻ để lưu trạng thái của ứng dụng, ở đây là phiên đăng nhập của người dùng
 Mật khẩu được mã hóa bằng thuật toán mã hóa bất đối xứng SHA256 với khóa bí mật và khóa công khai
 Ứng dụng có phân quyền: Khách hàng và nhân viên
-BTL em có validate tất cả các trường dữ liệu: sdt: 10 số, có số 0 ở đầu
-mật khẩu: 8 kí tự trở lên, có chữ viết thường, viết hoa, số, kí tự đặc biệt mới gọi là mật khẩu mạnh
-Giao diện em có làm ngay ngắn, tham khảo và làm theo giao diện của shopee
 1. Chức năng đăng ký<br>
 ![image](https://github.com/haotran7902/BTL_ANDROID/assets/130350601/1679d028-f359-4e9d-88db-0e0a679cfa71)
 ![image](https://github.com/haotran7902/BTL_ANDROID/assets/130350601/851f09e5-3fbd-44f3-9f3b-80e9f215d212)
